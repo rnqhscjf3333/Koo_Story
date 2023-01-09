@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: c3db70b50b4027c4fa23ae00b53fe724
+  - enabled: 1
+    path: Assets/Scenes/Dne_Village.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: e663e1eb877f9884bb4d39f20b522b88
+  - enabled: 1
+    path: Assets/Scenes/Flower.unity
+    guid: 44152de71dc061b4380502076c33ee34
+  - enabled: 1
+    path: Assets/Scenes/Flower2.unity
+    guid: 7f566ee71e90ab34b990efae6083efc1
+  - enabled: 1
+    path: Assets/Scenes/Wilderness.unity
+    guid: d9c2577ea49c62a448ea2304e29f299f
+  - enabled: 1
+    path: Assets/Scenes/Wilderness2.unity
+    guid: 6b74d5bb2ac41c24ca1d3cd4992aa9dc
+  - enabled: 1
+    path: Assets/Scenes/Wilderness3.unity
+    guid: 94804fead29507c47a404b2eba067385
+  - enabled: 1
+    path: Assets/Scenes/Cliff.unity
+    guid: 372353b2cfd0ccd41ac46a62f5d2895f
+  - enabled: 1
+    path: Assets/Scenes/Catle1.unity
+    guid: 12aa4286878660042b3f0d6d6c5720be
+  - enabled: 1
+    path: Assets/Scenes/Mineral.unity
+    guid: 72e4aa03a137aee4cb60145f1d695413
+  - enabled: 1
+    path: Assets/Scenes/Harbor.unity
+    guid: cda041e415636ff4b86165f72dc32a67
+  - enabled: 1
+    path: Assets/Scenes/Ancient.unity
+    guid: c598870f6eccc644db54a79945280bb3
+  - enabled: 1
+    path: Assets/Scenes/Robrah_Village.unity
+    guid: a85d30f17dd022c408c1ef91981d840b
+  - enabled: 1
+    path: Assets/Scenes/ttas.unity
+    guid: 8456e3841ad9c234da6cf08b20ad2d6e
+  - enabled: 1
+    path: Assets/Scenes/Dragon.unity
+    guid: 6e4b2ea924703e34ca62f9aa0d2cdfb2
+  - enabled: 1
+    path: Assets/Scenes/CatleEnd2.unity
+    guid: a18391ace9f263b4cada149d16ba766e
+  - enabled: 1
+    path: Assets/Scenes/Dragon2.unity
+    guid: 960b80a4af7017444bb165a76aaa8b88
+  - enabled: 1
+    path: Assets/Scenes/Sea.unity
+    guid: bf9f55d460b840841b71f9d412d1984f
+  - enabled: 1
+    path: Assets/Scenes/Catle2.unity
+    guid: f165d25d6a118b64882720f500accd19
+  - enabled: 1
+    path: Assets/Scenes/DeadSea.unity
+    guid: c33d9f8c988858a42a9f8d48eb691e73
+  - enabled: 1
+    path: Assets/Scenes/CatleEnd1.unity
+    guid: 22babd9e4bc276b4abda382f8e7e391a
+  - enabled: 1
+    path: Assets/Scenes/SkyCatle2.unity
+    guid: 42170d7bf7629634b8ff7d256457cf2e
+  - enabled: 1
+    path: Assets/Scenes/SkyCatle1.unity
+    guid: 2ee2aea9f96f71b40ab6e13bee4afa5a
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 8ab3d596a6aa3b34e8266a4617af12ac
+  - enabled: 1
+    path: Assets/Scenes/SkyCatle.unity
+    guid: 1326c641b0af6e4419c322dc4de575e8
+  - enabled: 1
+    path: Assets/Scenes/Cave1.unity
+    guid: db0e30b0f049228469c9b5b983053ed3
+  - enabled: 1
+    path: Assets/Scenes/Catle2.5.unity
+    guid: 0ce57289cc872ff47a3cfac6ebcb49f2
+  - enabled: 1
+    path: Assets/Scenes/SlimeCave.unity
+    guid: 11cf000892216c94c9a3fc7b89b3d518
+  - enabled: 1
+    path: Assets/Scenes/CatleDoor.unity
+    guid: 124bf638c23273444b98577abb046cf1
+  - enabled: 1
+    path: Assets/Scenes/LastTower.unity
+    guid: e4034f6af532a504daa580d0a8ae8a07
+  - enabled: 1
+    path: Assets/Scenes/LastTower2.unity
+    guid: eb771255826b3ae468d1495972f72516
+  - enabled: 1
+    path: Assets/Scenes/LastTowerE.unity
+    guid: 1d43ef19bb4f3d0419650850afaa1138
+  m_configObjects: {}
