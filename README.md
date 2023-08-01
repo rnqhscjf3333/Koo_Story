@@ -1,4 +1,4 @@
-# Koo-Story
+# Koo Story
 2D 액션 RPG 게임<br>
 ![image](https://github.com/rnqhscjf3333/Koo-Story/assets/41632370/1ed1559b-f535-4d6b-8d93-53eb1e8c3e17)
 ## 🖥️ 프로젝트 소개
