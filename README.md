@@ -1,6 +1,6 @@
 # Koo-Story
-2D 액션 RPG 게임
-
+2D 액션 RPG 게임<br>
+![image](https://github.com/rnqhscjf3333/Koo-Story/assets/41632370/1ed1559b-f535-4d6b-8d93-53eb1e8c3e17)
 ## 🖥️ 프로젝트 소개
 플래시 게임 **킹 오브 곡괭이**를 참고하여 제작한 게임
 
@@ -23,10 +23,12 @@
 - 10개의 무기 / 10개의 방어구 / 2개의 스킬
 
 ### 마을(3개)
+![image](https://github.com/rnqhscjf3333/Koo-Story/assets/41632370/2e4666dc-f229-45f0-9579-6eb97684cd43) <br>
 - 대화와 퀘스트
 - 상점(장비와 아이템 판매)
   
 ### 던전(13개)
+![image](https://github.com/rnqhscjf3333/Koo-Story/assets/41632370/d77050d0-f898-43f5-b6d5-9a7e5cec7204) <br>
 - 몬스터
 1. 플레이어가 인식거리 안으로 들어오면 추적
 2. 앞에 절벽이 있을경우 뒤돌았다가 다시 추적(메이플스토리의 몬스터 생각하며 설계)
