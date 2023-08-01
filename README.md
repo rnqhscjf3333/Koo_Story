@@ -1,9 +1,9 @@
 # Koo Story
-2D 액션 RPG 게임<br>
+- 2D 액션 RPG 게임
+- [플레이 영상](https://youtu.be/V9Ll3HrYhF0) <br>
 ![image](https://github.com/rnqhscjf3333/Koo-Story/assets/41632370/1ed1559b-f535-4d6b-8d93-53eb1e8c3e17)
 ## 🖥️ 프로젝트 소개
 - 플래시 게임 **킹 오브 곡괭이**를 참고하여 제작한 게임
-- [플레이 영상](https://youtu.be/V9Ll3HrYhF0)
 
 ## 🕰️ 제작기간
 - 21.3.24~21.6.11 (약 3개월)
